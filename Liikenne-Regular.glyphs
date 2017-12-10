@@ -1,21 +1,9 @@
 {
 .appVersion = "74";
 DisplayStrings = (
-"!",
-"POLIISI?",
-"STOP\012\012Hiidenkivi\012Leiril\U00E4\012MALLIKAN KARTANO\012MALLILA\012LEPOTUULI\012Leiril\U00E4\012Radio 98,1\012Matkailutie\012WC\012ZOO\012B  B\012SOS\012TAMPERE\012MIKKELI\012KOTKA\012LAHTI\012TURENKI\012LAMMI\012292\01212\012317\012TURKU\012E18\0121,5 km\012300 m\012MIKKELI\012KUOPIO\012KOTKA\012HELSINKI 119\012HAARAJOKI 6\012Kirjasto\012Pihlajamki 2,1\012HEINOLA\012KESKUSTA\012SALO 25\012TURKU 70\01270 km\012HELSINGFORS\012HYVINGE\012PUNKAHARJU\012522\0123622\01242\01214\012150 m\012TAXI\012METRO\012VHF\012KAAPELI\01212 t\0126 t\01230 t\01250 t\01210 m\0123,5 m\01220\01230\01240\01250\01260\01270\01280\012100\012120\012TULLI\012TOLL\012STOP\012POLIISI\012A (VAK)\012B (VAK)\0128 - 17\012(8 - 13)\01230 min\012Ajoittain sumua\012Tidvis dimma\012Sallittu mopoille\012Till\U00E5tet f\U00F6r mopeder\012PORVOO\012BORG\U00C5\012Pelastustie\012R\U00E4ddningsv\U00E4g\0123-akseliselle telille 16t\012Huoltoajo Sallittu\012Servicek\U00F6rning till\U00E5ten\0123-axlad boggi 24t\0127\01211 \0125",
+"STOP\012\012Hiidenkivi\012Leiril\U00E4\012MALLIKAN KARTANO\012MALLILA\012LEPOTUULI\012Leiril\U00E4\012Radio 98,1\012Matkailutie\012WC\012ZOO\012B  B\012SOS\012TAMPERE\012MIKKELI\012KOTKA\012LAHTI\012TURENKI\012LAMMI\012292\01212\012317\012TURKU\012E18\0121,5 km\012300 m\012MIKKELI\012KUOPIO\012KOTKA\012HELSINKI 119\012HAARAJOKI 6\012Kirjasto\012Pihlajamki 2,1\012HEINOLA\012KESKUSTA\012SALO 25\012TURKU 70\01270 km\012HELSINGFORS\012HYVINGE\012PUNKAHARJU\012522\0123622\01242\01214\012150 m\012TAXI\012METRO\012VHF\012KAAPELI\01212 t\0126 t\01230 t\01250 t\01210 m\0123,5 m\01220\01230\01240\01250\01260\01270\01280\012100\012120\012TULLI\012TOLL\012STOP\012POLIISI\012A (VAK)\012B (VAK)\0128 - 17\012(8-13)\01230 min\012Ajoittain sumua\012Tidvis dimma\012Sallittu mopoille\012Till\U00E5tet f\U00F6r mopeder\012PORVOO\012BORG\U00C5\012Pelastustie\012R\U00E4ddningsv\U00E4g\0123-akseliselle telille 16t\012Huoltoajo Sallittu\012Servicek\U00F6rning till\U00E5ten\0123-axlad boggi 24t\0127\01211 \0125",
 "(",
-":",
-";",
-A,
-a,
-y,
-"\U00E4",
-"\U00E5",
-f,
-g,
-s,
-r,
+")",
 "Akaa\012Alaj\U00E4rvi\012Alavieska\012Alavus\012Asikkala: 120 km\012Askola\012Aura\012Br\U00E4nd\U00F6\012Ecker\U00F6\012Enonkoski\012Enonteki\U00F6\012Espoo\012Eura\012Eurajoki\012Evij\U00E4rvi\012Finstr\U00F6m\012Forssa\012F\U00F6gl\U00F6\012Geta\012Haapaj\U00E4rvi\012Haapavesi\012Hailuoto\012Halsua\012Hamina\012Hammarland\012Hankasalmi\012Hanko\012Harjavalta\012Hartola\012Hattula\012Haukipudas\012Hausj\U00E4rvi\012Heinola\012Hein\U00E4vesi\012Helsinki\012Hirvensalmi\012Hollola\012Honkajoki\012Huittinen\012Humppila\012Hyrynsalmi\012Hyvink\U00E4\U00E4\012H\U00E4meenkoski\012H\U00E4meenkyr\U00F6\012H\U00E4meenlinna\012Ii\012Iisalmi\012Iitti\012Ikaalinen\012Ilmajoki\012Ilomantsi\012Imatra\012Inari\012Inkoo\012Isojoki\012Isokyr\U00F6\012Jalasj\U00E4rvi\012Janakkala\012Joensuu\012Jokioinen\012Jomala\012Joroinen\012Joutsa\012Juankoski\012Juuka\012Juupajoki\012Juva\012Jyv\U00E4skyl\U00E4\012J\U00E4mij\U00E4rvi\012J\U00E4ms\U00E4\012J\U00E4rvenp\U00E4\U00E4\012Kaarina\012Kaavi\012Kajaani\012Kalajoki\012Kangasala\012Kangasniemi\012Kankaanp\U00E4\U00E4\012Kannonkoski\012Kannus\012Karijoki\012Karjalohja\012Karkkila\012Karstula\012Karvia\012Kaskinen\012Kauhajoki\012Kauhava\012Kauniainen\012Kaustinen\012Keitele\012Kemi\012Kemij\U00E4rvi\012Keminmaa\012Kemi\U00F6nsaari\012Kempele\012Kerava\012Kerim\U00E4ki\012Kes\U00E4lahti\012Keuruu\012Kihni\U00F6\012Kiikoinen\012Kiiminki\012Kinnula\012Kirkkonummi\012Kitee\012Kittil\U00E4\012Kiuruvesi\012Kivij\U00E4rvi\012Kokem\U00E4ki\012Kokkola\012Kolari\012Konnevesi\012Kontiolahti\012Korsn\U00E4s\012Koski Tl\012Kotka\012Kouvola\012Kristiinankaupunki\012Kruunupyy\012Kuhmo\012Kuhmoinen\012Kumlinge\012Kuopio\012Kuortane\012Kurikka\012Kustavi\012Kuusamo\012Kyyj\U00E4rvi\012K\U00E4rk\U00F6l\U00E4\012K\U00E4rs\U00E4m\U00E4ki\012K\U00F6kar\012K\U00F6yli\U00F6\012Lahti\012Laihia\012Laitila\012Lapinj\U00E4rvi\012Lapinlahti\012Lappaj\U00E4rvi\012Lappeenranta\012Lapua\012Laukaa\012Lavia\012Lemi\012Lemland\012Lemp\U00E4\U00E4l\U00E4\012Lepp\U00E4virta\012Lestij\U00E4rvi\012Lieksa\012Lieto\012Liminka\012Liperi\012Lohja\012Loimaa\012Loppi\012Loviisa\012Luhanka\012Lumijokil\012F\U00E4rsaaret\012Lumparland\012Luoto\012Luum\U00E4ki\012Luvia\012Maalahti\012Maaninka\012Maarianhamina\012Marttila\012Masku\012Merij\U00E4rvi\012Merikarvia\012Miehikk\U00E4l\U00E4\012Mikkeli\012Muhos\012Multia\012Muonio\012Mustasaari\012Muurame\012Myn\U00E4m\U00E4ki\012Myrskyl\U00E4\012M\U00E4nts\U00E4l\U00E4\012M\U00E4ntt\U00E4-Vilppula\012M\U00E4ntyharju\012Naantali\012Nakkila\012Nastola\012Nilsi\U00E4\012Nivala\012Nokia\012Nousiainen\012Nummi-Pusula\012Nurmes\012Nurmij\U00E4rvi\012N\U00E4rpi\U00F6\012Orimattila\012Orip\U00E4\U00E4\012Orivesi\012Oulainen\012Oulu\012Oulunsalo\012Outokumpu\012Padasjoki\012Paimio\012Paltamo\012Parainen\012Parikkala\012Parkano\012Peders\U00F6ren kunta\012Pelkosenniemi\012Pello\012Perho\012Pertunmaa\012Pet\U00E4j\U00E4vesi\012Pieks\U00E4m\U00E4ki\012Pielavesi\012Pietarsaari\012Pihtipudas\012Pirkkala\012Polvij\U00E4rvi\012Pomarkku\012Pori\012Pornainen\012Porvoo\012Posio\012Pudasj\U00E4rvi\012Pukkila\012Punkaharju\012Punkalaidun\012Puolanka\012Puumala\012Pyht\U00E4\U00E4\012Pyh\U00E4joki\012Pyh\U00E4j\U00E4rvi\012Pyh\U00E4nt\U00E4\012Pyh\U00E4ranta\012P\U00E4lk\U00E4ne\012P\U00F6yty\U00E4\012Raahe\012Raasepori\012Raisio\012Rantasalmi\012Ranua\012Rauma\012Rautalampi\012Rautavaara\012Rautj\U00E4rvi\012Reisj\U00E4rvi\012Riihim\U00E4ki\012Ristiina\012Ristij\U00E4rvi\012Rovaniemi\012Ruokolahti\012Ruovesi\012Rusko\012R\U00E4\U00E4kkyl\U00E4\012Saarij\U00E4rvi\012Salla\012Salo\012Saltvik\012Sastamala\012Sauvo\012Savitaipale\012Savonlinna\012Savukoski\012Sein\U00E4joki\012Sievi\012Siikainen\012Siikajoki\012Siikalatva\012Siilinj\U00E4rvi\012Simo\012Sipoo\012Siuntio\012Sodankyl\U00E4\012Soini\012Somero\012Sonkaj\U00E4rvi\012Sotkamo\012Sottunga\012Sulkava\012Sund\012Suomenniemi\012Suomussalmi\012Suonenjoki\012Sysm\U00E4\012S\U00E4kyl\U00E4\012Taipalsaari\012Taivalkoski\012Taivassalo\012Tammela\012Tampere\012Tarvasjoki\012Tervo\012Tervola\012Teuva\012Tohmaj\U00E4rvi\012Toholampi\012Toivakka\012Tornio\012Turku\012Tuusniemi\012Tuusula\012Tyrn\U00E4v\U00E4\012T\U00F6ys\U00E4\012Ulvila\012Urjala\012Utaj\U00E4rvi\012Utsjoki\012Uurainen\012Uusikaarlepyy\012Uusikaupunki\012Vaala\012Vaasa\012Valkeakoski\012Valtimo\012Vantaa\012Varkaus\012Vehmaa\012Vesanto\012Vesilahti\012Veteli\012Vierem\U00E4\012Vihanti\012Vihti\012Viitasaari\012Vimpeli\012Virolahti\012Virrat\012V\U00E5rd\U00F6\012V\U00E4h\U00E4kyr\U00F6\012V\U00F6yri\012Yli-Ii\012Ylitornio\012Ylivieska\012Yl\U00F6j\U00E4rvi\012Yp\U00E4j\U00E4\012\U00C4ht\U00E4ri\012\U00C4\U00E4nekoski\012"
 );
 copyright = "Copyright © 2017 by .";
@@ -44,6 +32,10 @@ descender = -166;
 id = "AD39E6C8-8F9C-453F-B2FE-0131B3A51D2D";
 userData = {
 GSCornerRadius = 15;
+GSOffsetAutoStroke = 1;
+GSOffsetHorizontal = 2;
+GSOffsetMakeStroke = 1;
+GSOffsetVertical = 2;
 };
 xHeight = 625;
 }
@@ -3612,34 +3604,52 @@ unicode = 003F;
 },
 {
 glyphname = parenleft;
-lastChange = "2017-12-10 11:38:02 +0000";
+lastChange = "2017-12-10 12:07:39 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"209 590 OFFCURVE",
+"209 246 OFFCURVE",
+"395 -8 CURVE",
+"373 11 OFFCURVE",
+"354 33 OFFCURVE",
+"334 55 CURVE",
+"134 290 OFFCURVE",
+"161 641 OFFCURVE",
+"395 841 CURVE"
+);
+}
+);
+};
 layerId = "AD39E6C8-8F9C-453F-B2FE-0131B3A51D2D";
 paths = (
 {
 closed = 1;
 nodes = (
-"188 590 OFFCURVE",
-"188 246 OFFCURVE",
-"374 -8 CURVE",
-"352 11 OFFCURVE",
-"333 33 OFFCURVE",
-"313 55 CURVE",
-"113 290 OFFCURVE",
-"140 641 OFFCURVE",
-"374 841 CURVE"
+"209 590 OFFCURVE",
+"209 246 OFFCURVE",
+"395 -8 CURVE",
+"373 11 OFFCURVE",
+"354 33 OFFCURVE",
+"334 55 CURVE",
+"134 290 OFFCURVE",
+"161 641 OFFCURVE",
+"395 841 CURVE"
 );
 }
 );
-width = 393;
+width = 445;
 }
 );
 unicode = 0028;
 },
 {
 glyphname = parenright;
-lastChange = "2017-12-10 11:38:12 +0000";
+lastChange = "2017-12-10 12:07:50 +0000";
 layers = (
 {
 layerId = "AD39E6C8-8F9C-453F-B2FE-0131B3A51D2D";
@@ -3647,19 +3657,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"205 243 OFFCURVE",
-"205 587 OFFCURVE",
-"19 841 CURVE",
-"41 822 OFFCURVE",
-"60 800 OFFCURVE",
-"80 778 CURVE",
-"280 543 OFFCURVE",
-"253 192 OFFCURVE",
-"19 -8 CURVE"
+"236 243 OFFCURVE",
+"236 587 OFFCURVE",
+"50 841 CURVE",
+"72 822 OFFCURVE",
+"91 800 OFFCURVE",
+"111 778 CURVE",
+"311 543 OFFCURVE",
+"284 192 OFFCURVE",
+"50 -8 CURVE"
 );
 }
 );
-width = 393;
+width = 445;
 }
 );
 unicode = 0029;
