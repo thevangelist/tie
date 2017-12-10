@@ -70,6 +70,7 @@ I was brave enough to fix some of the problems that exist in the original typefa
 
 ### Articles
 
+* [Liikennemerkkipiirustukset](https://julkaisut.liikennevirasto.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf)
 * [Opastemerkkien Luettavuus - Tiehallinto (2005)](https://julkaisut.liikennevirasto.fi/pdf/3200927-vopastusmerkkienluettavuu.pdf)
 * [Tobias Frere-Jones' Retina Typeface for Maximum Legibility of The Wall Street Journal](http://www.howdesign.com/design-business/design-news/retina-typeface-frere-jones-type/)
 * [Designing the ultimate Wayfinding Typeface](https://typography.guru/journal/designing-the-ultimate-wayfinding-typeface-r30/)
