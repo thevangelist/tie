@@ -78,3 +78,7 @@ I was brave enough to fix some of the problems that exist in the original typefa
 ## Acknowledgements
 
 This is a pro-bono hobby project. If you have any suggestions or wish to contact me, you can create an issue on the repo.
+
+## License
+
+[MIT](LICENSE)
