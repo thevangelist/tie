@@ -61,6 +61,8 @@ I was brave enough to fix some of the problems that exist in the original typefa
 * Missing a LOT of glyphs
 * `parenleft`, and `parenright` seem like they are originally from another typeface (should have a thicker stroke)
 * Human visual perception should be compensated with adding an overshoot (=placed below the baseline) to letters such as the letter `o`.
+* Add support to more glyphs
+* Add arrows and other signs used in the Finnish traffic signs to the typeface itself
 ### Potential benchmarks (Some european wayfinding typefaces)
 
 * Tratex
