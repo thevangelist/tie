@@ -83,4 +83,4 @@ This is a pro-bono hobby project. If you have any suggestions or wish to contact
 
 ## License
 
-[MIT](LICENSE)
+[CC0](LICENSE)
