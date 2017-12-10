@@ -1,6 +1,7 @@
 # Tie - Font Conversion of The Finnish Traffic Sign Typeface
 
 *...Based on the original images still used for traffic sign designs!*
+
 ## Preface
 
 The Finnish traffic sign typeface contains a lot of errors and problems. I ended up asking about the typeface used for upcoming renewed signs from Liikennevirasto, and the conversation in Twitter lead to a CC0 release of the original typeface drawn in 1960's.
@@ -8,6 +9,16 @@ The Finnish traffic sign typeface contains a lot of errors and problems. I ended
 *Tie*  is a typeface conversion of the original Finnish traffic sign typeface that is available at [Liikennevirasto page](https://www.liikennevirasto.fi/avoindata/tietoaineistot/liikennemerkkien-kirjasintyyppi).
 
 ![Example of Stop Sign with -45 spacing](./examples/stop.png "Example of Stop Sign with -45 spacing")
+
+## Repository contents
+
+```
+├── README.md
+├── Tie-Regular.glyphs     > Glyphs editable version of the typeface
+├── examples               > Example images
+├── fonts                  > Distributable fonts (OTF, WOFF)
+└── wordlists              > Wordlists for testing the typeface
+```
 
 ## Conversion
 
