@@ -6,6 +6,8 @@ The Finnish traffic sign typeface contains a lot of errors and problems. I ended
 
 *Tie*  is a typeface conversion of the original Finnish traffic sign typeface that is available at [Liikennevirasto page](https://www.liikennevirasto.fi/avoindata/tietoaineistot/liikennemerkkien-kirjasintyyppi).
 
+![Example of Stop Sign with -45 spacing](./examples/stop.png "Example of Stop Sign with -45 spacing")
+
 ## Conversion
 
 The conversion was made using *Adobe Illustrator*, by defining the x-height, cap height, ascender height and descender height based on the following letters:
@@ -22,9 +24,9 @@ Spacing of the typeface is pretty much still on-going work - As these decisions 
 
 ## Observations made during the conversion
 
-### Cap and ascender heights
+* Intriguingly, *the cap height and the ascender height are the same*.
+* Originals, especially the lower-case ones, contain a lot of artefacts, and is not clear how to fix them.
 
-Intriguingly, *the cap height and the ascender height are the same*.
 ### Problems fixed
 
 I was brave enough to fix some of the problems that exist in the original typeface
@@ -44,10 +46,3 @@ I was brave enough to fix some of the problems that exist in the original typefa
 * Human visual perception should be compensated with adding an overshoot (=placed below the baseline) to letters such as the letter `o`.
 
 ### _TLDR: *Not very well suitable for the traffic sign system at all*_
-
-## Benchmarks
-
-* Tratex
-* Dansk Vejtavleskrift
-* British Road Alphabet
-* DIN1451
