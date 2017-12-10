@@ -74,6 +74,6 @@ I was brave enough to fix some of the problems that exist in the original typefa
 * [Tobias Frere-Jones' Retina Typeface for Maximum Legibility of The Wall Street Journal](http://www.howdesign.com/design-business/design-news/retina-typeface-frere-jones-type/)
 * [Designing the ultimate Wayfinding Typeface](https://typography.guru/journal/designing-the-ultimate-wayfinding-typeface-r30/)
 
-### Acknowledgements
+## Acknowledgements
 
 This is a pro-bono hobby project. If you have any suggestions or wish to contact me, you can create an issue on the repo.
