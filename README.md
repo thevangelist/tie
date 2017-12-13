@@ -84,3 +84,8 @@ This is a pro-bono hobby project. If you have any suggestions or wish to contact
 ## License
 
 [CC0](LICENSE)
+
+Capital J letter has no spacing on right
+
+Semicolon from colon, Colon from period
+Exclam from I, ? from S
