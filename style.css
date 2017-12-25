@@ -1,7 +1,6 @@
 @font-face {
   font-family: TieRegular;
-  src: url("fonts/Tie-Regular.otf") format("opentype"),
-       url("fonts/Tie-Regular.woff") format("woff");
+  src: url(fonts/Tie-Regular.woff);
 }
 
 body {
