@@ -1,8 +1,6 @@
 @font-face {
   font-family: TieRegular;
-  src: url('fonts/Tie-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
+  src: url('fonts/Tie-Regular.woff');
 }
 
 body {
@@ -139,7 +137,7 @@ input[type=text] {
 }
 
 .word {
-  font-family: 'Tie-Regular', sans-serif;
+  font-family: TieRegular, sans-serif;
   text-align: center;
   line-height: 106px;
   font-size: 60px;
