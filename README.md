@@ -100,10 +100,9 @@ I was brave enough to fix some of the problems that exist in the original typefa
 
 ## More Examples
 
-### All glyphs
 ![All](./examples/all.png "All glyphs")
-
-###
+![Municipalities](./examples/municipalities.png "Municipalities")
+![Random](./examples/random.png "Random")
 
 ## License
 
