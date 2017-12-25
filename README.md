@@ -14,6 +14,13 @@ The Finnish traffic sign typeface contains a lot of errors and problems. I ended
 
 *Tie*  is a typeface conversion of the original Finnish traffic sign typeface that is available at [Liikennevirasto page](https://www.liikennevirasto.fi/avoindata/tietoaineistot/liikennemerkkien-kirjasintyyppi).
 
+## Usage / Installation
+
+1. Download the .OTF and .WOFF versions from the [fonts folder](./fonts)
+2a). OS X: Drag-n-drop / copy the downloaded files to *Font Book*
+2b. Windows: Drag-n-drop / copy the downloaded files to *Fonts (Control Panel)*
+3. Open your preferred text / visual editor and start making your own traffic signs
+
 ## Repository contents
 
 ```
@@ -23,13 +30,6 @@ The Finnish traffic sign typeface contains a lot of errors and problems. I ended
 ├── fonts                  > Distributable fonts (OTF, WOFF)
 └── wordlists              > Wordlists for testing the typeface
 ```
-
-# Usage / Installation
-
-1. Download the .OTF and .WOFF versions from the [fonts folder](./fonts)
-2a). OS X: Drag-n-drop / copy the downloaded files to *Font Book*
-2b. Windows: Drag-n-drop / copy the downloaded files to *Fonts (Control Panel)*
-3. Open your preferred text / visual editor and start making your own traffic signs
 
 ## Conversion
 
