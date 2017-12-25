@@ -11,43 +11,30 @@
       gtag('config', 'UA-111564645-1');
     </script>
     <meta charset="utf-8">
-    <style>
-      @font-face {
-        font-family: TieRegular;
-        src: url(fonts/Tie-Regular.otf);
-      }
-      body {
-        font-family: TieRegular;
-        background: #006EB8;
-        color: #fff;
-        margin: 1em;
-      }
-      #output {
-        border: 0.15em solid white;
-        border-radius: 0.20em;
-        padding: 0.25em;
-        margin: 0;
-        font-size: 4em;
-        display: inline-block;
-      }
-      input[type=text] {
-        padding: 0.5em;
-        border-radius: 0.2em;
-        border: 0;
-        width: 30em;
-      }
-      hr {
-        margin: 2em 0;
-      }
-    </style>
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Tie - Font Conversion of The Finnish Traffic Sign Typeface</title>
   </head>
   <body>
-    <h1>Tie - Font Conversion of The Finnish Traffic Sign Typeface</h1>
-    <label for="sample">Change the text </label><input type="text" id="sample" autofocus data-bind="value: sample, valueUpdate: 'afterkeydown'" />
-    <hr/>
-    <div id="output">
-      <label for="outputted"></label><span id="outputted" data-bind="text: sample"></span>
+    <h1>Tie</h1>
+    <h2>Font Conversion of The Finnish Traffic Sign Typeface</h2>
+    <input maxlength="30" type="text" id="sample" autofocus data-bind="value: sample, valueUpdate: 'afterkeydown'" />
+    <div class="container">
+      <div class="pole"></div>
+      <div class="outer">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+      <div class="inner">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div class="word" data-bind="text: sample">Lataa...</div>
+      </div>
+      <div class="shadow"></div>
     </div>
     <script src="//ajax.aspnetcdn.com/ajax/knockout/knockout-3.3.0.js"></script>
     <script>
