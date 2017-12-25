@@ -26,8 +26,9 @@ a:link, a:visited, a:hover, a:active {
   text-transform: uppercase;
 }
 
-a:hover {
-
+p {
+  line-height: 1.5;
+  font-family: monospace;
 }
 
 h1 {
