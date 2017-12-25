@@ -1,0 +1,143 @@
+@font-face {
+  font-family: TieRegular;
+  src: url(fonts/Tie-Regular.otf);
+}
+
+body {
+  font-family: TieRegular;
+  background: #006EB8;
+  color: #fff;
+  margin: 1em;
+  overflow: hidden;
+  font-size: 18px;
+}
+
+#output {
+  border: 0.15em solid white;
+  border-radius: 0.20em;
+  padding: 0.25em;
+  margin: 0;
+  font-size: 4em;
+  display: inline-block;
+}
+
+label {
+  font-family: monospace;
+  text-transform: uppercase;
+}
+
+input[type=text] {
+  padding: 0.5em;
+  border-radius: 0.2em;
+  border: 0;
+  font-family: monospace;
+  width: 30em;
+}
+
+hr {
+  margin: 2em 0;
+}
+
+body {
+  height: 100vh;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e2856+9,000000+100 */
+  background: rgb(30,40,86); /* Old browsers */
+  background: -moz-linear-gradient(top, rgba(30,40,86,1) 9%, rgba(0,0,0,1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(30,40,86,1) 9%,rgba(0,0,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(30,40,86,1) 9%,rgba(0,0,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e2856', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+}
+
+.container {
+  position: absolute;
+  width: 270px;
+  height: 300px;
+  bottom: 0;
+  left: 30%;
+  margin-left: -135px;
+  transform:
+    perspective(1200px)
+    rotateY(15deg);
+  animation: approach 20s forwards;
+}
+
+.pole {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  margin-left: -10px;
+  width: 12px;
+  height: 69px;
+  background-color: #333;
+  border-right: solid 5px #555;
+  border-left: solid 5px #555;
+  box-shadow: inset 0 0 10px #000;
+}
+
+.pole:before {
+  content: "";
+  display: block;
+  height: 100%;
+  border-left: dotted 4px #000;
+  margin: 0 4px;
+}
+
+.outer, .inner {
+  position: absolute;
+  top: 40px;
+}
+
+.outer div {
+  position: absolute;
+  background-color: #fff;
+  width: 270px;
+  height: 112px;
+}
+
+.inner div {
+  position: absolute;
+  background-color: #b00;
+  width: 256px;
+  height: 106px;
+  margin: 3px 7px;
+}
+
+.container div div:nth-child(1) {
+  transform: rotate(90deg);
+}
+
+.container div div:nth-child(2) {
+  transform: rotate(45deg);
+}
+
+.container div div:nth-child(3) {
+  transform: rotate(-45deg);
+}
+
+.word {
+  font-family: 'Tie-Regular', sans-serif;
+  text-align: center;
+  line-height: 106px;
+  font-size: 60px;
+  max-width: 6em;
+  white-space: nowrap;
+  word-break: break;
+  color: #fff;
+  overflow: hidden;
+}
+
+.shadow {
+  position: absolute;
+  top: -40px;
+  bottom: 0;
+  width: 270px;
+}
+
+@keyframes approach {
+  100% {
+    left: 50%;
+    transform:
+      perspective(1200px)
+      rotateY(45deg);
+  }
+}
