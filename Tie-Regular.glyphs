@@ -3,7 +3,6 @@
 DisplayStrings = (
 z
 );
-copyright = "Copyright © 2017 by .";
 customParameters = (
 {
 name = license;
