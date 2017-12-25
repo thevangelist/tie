@@ -4,13 +4,7 @@
 
 ## Tiivistelmä Suomeksi
 
-Suomalaisissa liikennemerkeissä käytetyn kirjasintyypin fontti-konversio alkuperäisten kuvien pohjalta.
-
-```
-Suomen opastetauluissa on käytössä 1960-luvulla kehitetty kirjasintyyppi. Tiehallinnon tekemässä tutkimuksessa opastimien luettavuudesta todettiin vuonna 2005, että mikään yleisesti käytössä oleva kaupallinen kirjasintyyppi ei vastannut Tiehallinnon tyyppiä. Monissa suunnitteluohjelmistoissa tämä oli käytössä kuvaobjektina, ei tekstiobjektina.
-```
-
-[Wikipedia](https://fi.wikipedia.org/wiki/Liikennemerkit_Suomessa)
+Suomalaisissa liikennemerkeissä käytetyn kirjasintyypin fontti-konversio alkuperäisten kuvien pohjalta. Ks. [Wikipedia](https://fi.wikipedia.org/wiki/Liikennemerkit_Suomessa).
 
 ![Example of Stop Sign with -45 spacing](./examples/stop.png "Example of Stop Sign with -45 spacing")
 
