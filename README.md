@@ -2,13 +2,23 @@
 
 *...Based on the original images still used for traffic sign designs!*
 
+## Tiivistelmä Suomeksi
+
+Suomalaisissa liikennemerkeissä käytetyn kirjasintyypin fontti-konversio alkuperäisten kuvien pohjalta.
+
+```
+Suomen opastetauluissa on käytössä 1960-luvulla kehitetty kirjasintyyppi. Tiehallinnon tekemässä tutkimuksessa opastimien luettavuudesta todettiin vuonna 2005, että mikään yleisesti käytössä oleva kaupallinen kirjasintyyppi ei vastannut Tiehallinnon tyyppiä. Monissa suunnitteluohjelmistoissa tämä oli käytössä kuvaobjektina, ei tekstiobjektina.
+```
+
+[Wikipedia](https://fi.wikipedia.org/wiki/Liikennemerkit_Suomessa)
+
+![Example of Stop Sign with -45 spacing](./examples/stop.png "Example of Stop Sign with -45 spacing")
+
 ## Preface
 
 The Finnish traffic sign typeface contains a lot of errors and problems. I ended up asking about the typeface used for upcoming renewed signs from Liikennevirasto, and the conversation in Twitter lead to a CC0 release of the original typeface drawn in 1960's.
 
 *Tie*  is a typeface conversion of the original Finnish traffic sign typeface that is available at [Liikennevirasto page](https://www.liikennevirasto.fi/avoindata/tietoaineistot/liikennemerkkien-kirjasintyyppi).
-
-![Example of Stop Sign with -45 spacing](./examples/stop.png "Example of Stop Sign with -45 spacing")
 
 ## Repository contents
 
