@@ -6,7 +6,7 @@
 
 Suomalaisissa liikennemerkeissä käytetyn kirjasintyypin fontti-konversio alkuperäisten kuvien pohjalta. Ks. [Wikipedia](https://fi.wikipedia.org/wiki/Liikennemerkit_Suomessa).
 
-![Example of Stop Sign with -45 spacing](./examples/stop.png "Example of Stop Sign with -45 spacing")
+![Example of STOP Sign with standard spacing](./examples/stop.png "Example of STOP Sign with standard spacing")
 
 ## Preface
 
@@ -16,9 +16,8 @@ The Finnish traffic sign typeface contains a lot of errors and problems. I ended
 
 ## Usage / Installation
 
-1. Download the .OTF and .WOFF versions from the [fonts folder](./fonts)
-2a). OS X: Drag-n-drop / copy the downloaded files to *Font Book*
-2b. Windows: Drag-n-drop / copy the downloaded files to *Fonts (Control Panel)*
+1. Download the .OTF and .WOFF versions from the [/fonts folder of this repository](./fonts)
+2. Drag-n-drop / copy the downloaded files to *Font Book* (on OSX) / *Fonts (Control Panel)* (on Windows)
 3. Open your preferred text / visual editor and start making your own traffic signs
 
 ## Repository contents
@@ -76,25 +75,35 @@ I was brave enough to fix some of the problems that exist in the original typefa
 * Design doesn't work well for traffic signs, as the glyphs become interchangeable when seen from a distance
 * Missing a LOT of glyphs
 * `parenleft`, and `parenright` seem like they are originally from another typeface (should have a thicker stroke)
+* There seems to be multiple originals, `parenleft` & `parenright` are good examples of these, [compare with the traffic sign example](https://www.flickr.com/photos/liikennevirasto/22534979571/in/album-72157658087418073/)
 * Human visual perception should be compensated with adding an overshoot (=placed below the baseline) to letters such as the letter `o`.
 * Add support to more glyphs
 * Add arrows and other signs used in the Finnish traffic signs to the typeface itself *as ligatures*, so they can be used whilst using the typeface itself
+* Missing different weights and styles (this could improve readability depending on the context)
 
 ### _TLDR: *Not very well suitable for the traffic sign system at all*_
 
-### Potential benchmarks (Some european wayfinding typefaces)
+## Potential benchmarks (Some european wayfinding typefaces)
 
 * Tratex
 * Dansk Vejtavleskrift
 * British Road Alphabet
 * DIN1451
 
-### Articles
+## References
 
 * [Liikennemerkkipiirustukset](https://julkaisut.liikennevirasto.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf)
+* [Liikennevirasto on Flickr (lots of traffic signs)](https://www.flickr.com/photos/liikennevirasto/albums/with/72157660385178002)
 * [Opastemerkkien Luettavuus - Tiehallinto (2005)](https://julkaisut.liikennevirasto.fi/pdf/3200927-vopastusmerkkienluettavuu.pdf)
 * [Tobias Frere-Jones' Retina Typeface for Maximum Legibility of The Wall Street Journal](http://www.howdesign.com/design-business/design-news/retina-typeface-frere-jones-type/)
 * [Designing the ultimate Wayfinding Typeface](https://typography.guru/journal/designing-the-ultimate-wayfinding-typeface-r30/)
+
+## More Examples
+
+### All glyphs
+![All](./examples/all.png "All glyphs")
+
+###
 
 ## License
 
