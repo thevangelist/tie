@@ -20,6 +20,13 @@ The Finnish traffic sign typeface contains a lot of errors and problems. I ended
 └── wordlists              > Wordlists for testing the typeface
 ```
 
+# Usage / Installation
+
+1. Download the .OTF and .WOFF versions from the [fonts folder](./fonts)
+2a). OS X: Drag-n-drop / copy the downloaded files to *Font Book*
+2b. Windows: Drag-n-drop / copy the downloaded files to *Fonts (Control Panel)*
+3. Open your preferred text / visual editor and start making your own traffic signs
+
 ## Conversion
 
 The conversion was made using *Adobe Illustrator*, by defining the x-height, cap height, ascender height and descender height based on the following letters:
@@ -32,12 +39,14 @@ the method is described in a tutorial [video on YouTube](https://www.youtube.com
 
 After that, the letters were copied one by one to *Glyphs* app and scaled with same proportions.
 
-Spacing of the typeface is pretty much still on-going work - As these decisions should be tested thoroughly with a real audience.
+Spacing of the typeface was done using the original [spacing tables, from page 287->](https://julkaisut.liikennevirasto.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf).
+
+Kerning tables aren't done, as I felt a bit unmotivated since the original kerning is somewhat bad.
 
 ## Observations made during the conversion
 
-* Intriguingly, *the cap height and the ascender height are the same*.
-* Originals, especially the lower-case ones, contain a lot of artefacts, and is not clear how to fix them.
+* Intriguingly, *the cap height and the ascender height are the same*
+* Originals, especially the lower-case ones, contain a lot of artefacts, and is not clear how to fix them
 
 ### Problems fixed
 
@@ -45,24 +54,30 @@ I was brave enough to fix some of the problems that exist in the original typefa
 
 * Letters `a, å, ä and y` had some artefacts, so I removed them
 * Spacing (still pretty much WIP)
+* Semicolon spacing is taken from colon
+* Colon spacing is taken from from period
+* ! spacing is from capital I
+* ? spacing is from capital S
 
 ## Existing problems and issues (TODO)
 
-* Artefacts from the originals
-* Spacing and kerning is guesswork
+* Artefacts from the originals should be removed and fixed
+* Kerning is not done (feel free to contribute, the information exists is [on page 293->](https://julkaisut.liikennevirasto.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf))
 * Some curves aren't curves - they have angular shapes
-
-### _TLDR: *Not very well suitable for the traffic sign system at all*_
+* Missing: Cyrillics and their spacing, [from page 298->](https://julkaisut.liikennevirasto.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf)
 
 ## Major improvement ideas - How to make Tie actually work for traffic signs
 
 * Design is not pretty by the standards of modern typography
-* Design doesn't work well for traffic signs, as the glyphs become interchangeable when seen from a distance.
+* Design doesn't work well for traffic signs, as the glyphs become interchangeable when seen from a distance
 * Missing a LOT of glyphs
 * `parenleft`, and `parenright` seem like they are originally from another typeface (should have a thicker stroke)
 * Human visual perception should be compensated with adding an overshoot (=placed below the baseline) to letters such as the letter `o`.
 * Add support to more glyphs
-* Add arrows and other signs used in the Finnish traffic signs to the typeface itself
+* Add arrows and other signs used in the Finnish traffic signs to the typeface itself *as ligatures*, so they can be used whilst using the typeface itself
+
+### _TLDR: *Not very well suitable for the traffic sign system at all*_
+
 ### Potential benchmarks (Some european wayfinding typefaces)
 
 * Tratex
@@ -77,15 +92,14 @@ I was brave enough to fix some of the problems that exist in the original typefa
 * [Tobias Frere-Jones' Retina Typeface for Maximum Legibility of The Wall Street Journal](http://www.howdesign.com/design-business/design-news/retina-typeface-frere-jones-type/)
 * [Designing the ultimate Wayfinding Typeface](https://typography.guru/journal/designing-the-ultimate-wayfinding-typeface-r30/)
 
-## Acknowledgements
-
-This is a pro-bono hobby project. If you have any suggestions or wish to contact me, you can create an issue on the repo.
-
 ## License
 
 [CC0](LICENSE)
 
-Capital J letter has no spacing on right
+## Contributing
 
-Semicolon from colon, Colon from period
-Exclam from I, ? from S
+Make a PR.
+
+## Acknowledgements
+
+This is a pro-bono hobby project. If you have any suggestions or wish to contact me, you can create an issue on the repo.
