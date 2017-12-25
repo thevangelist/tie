@@ -11,6 +11,7 @@
         font-family: TieRegular;
         background: #006EB8;
         color: #fff;
+        margin: 1em;
       }
       #output {
         border: 0.15em solid white;
@@ -34,17 +35,16 @@
   </head>
   <body>
     <h1>Tie - Font Conversion of The Finnish Traffic Sign Typeface</h1>
-    <label for="sample">Change the text </label><input type="text" step="0.001" id="sample" autofocus data-bind="value: sample, valueUpdate: 'afterkeydown'" />
+    <label for="sample">Change the text </label><input type="text" id="sample" autofocus data-bind="value: sample, valueUpdate: 'afterkeydown'" />
     <hr/>
     <div id="output">
-      <label for="output"></label><span id="abv" data-bind="text: sample"></span>
+      <label for="outputted"></label><span id="outputted" data-bind="text: sample"></span>
     </div>
     <script src="//ajax.aspnetcdn.com/ajax/knockout/knockout-3.3.0.js"></script>
     <script>
       var ViewModel = function(sample) {
         this.sample = ko.observable(sample);
       };
-
       ko.applyBindings(new ViewModel("Welcome to any city!"));
     </script>
   </body>
