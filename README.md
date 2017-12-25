@@ -1,10 +1,13 @@
 # Tie - Font Conversion of The Finnish Traffic Sign Typeface
 
 *...Based on the original images still used for traffic sign designs!*
+*...Codenamed: Tie!*
 
-## Tiivistelmä Suomeksi
+## Tiivistelmä Suomeksi (Finnish Summary)
 
-Suomalaisissa liikennemerkeissä käytetyn kirjasintyypin fontti-konversio alkuperäisten kuvien pohjalta. Ks. [Wikipedia](https://fi.wikipedia.org/wiki/Liikennemerkit_Suomessa).
+Suomalaisissa liikennemerkeissä käytetyn kirjasintyypin fontti-konversio alkuperäisten kuvien pohjalta. Projektin koodinimi: *Tie*.
+
+[Lue lisää Wikipediasta](https://fi.wikipedia.org/wiki/Liikennemerkit_Suomessa) ja [Liikenneviraston sivuilta](https://www.liikennevirasto.fi/avoindata/tietoaineistot/liikennemerkkien-kirjasintyyppi).
 
 ![Example of STOP Sign with standard spacing](./examples/stop.png "Example of STOP Sign with standard spacing")
 
