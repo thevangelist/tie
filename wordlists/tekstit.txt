@@ -69,8 +69,8 @@ STOP
 POLIISI
 A (VAK)
 B (VAK)
-8 - 17
-(8 - 13)
+8-17
+(8-13)
 30 min
 Ajoittain sumua
 Tidvis dimma
