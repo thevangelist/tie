@@ -9,6 +9,12 @@
 
 Suomalaisissa liikennemerkeissä käytetyn kirjasintyypin fontti-konversio alkuperäisten kuvien pohjalta. Projektin koodinimi: *Tie*.
 
+### Käyttöönotto
+
+1. Lataa fontit [/fonts -alikansiosta](./fonts)
+2. Kopioi fontit *Font Bookiin* (OSX) / *Fonts (Ohjauspaneeli)* (Windows)
+3. Avaa haluamasi ohjelma, esim. Word tai kuvankäsittelyohjelma - fontit ovat käytössäsi.
+
 [Lue lisää Wikipediasta](https://fi.wikipedia.org/wiki/Liikennemerkit_Suomessa) ja [Liikenneviraston sivuilta](https://www.liikennevirasto.fi/avoindata/tietoaineistot/liikennemerkkien-kirjasintyyppi).
 
 ![Example of STOP Sign with standard spacing](./examples/stop.png "Example of STOP Sign with standard spacing")
