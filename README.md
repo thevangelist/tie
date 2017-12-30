@@ -15,6 +15,8 @@ Suomalaisissa liikennemerkeissä käytetyn kirjasintyypin fontti-konversio alkup
 2. Kopioi fontit *Font Bookiin* (OSX) / *Fonts (Ohjauspaneeli)* (Windows)
 3. Avaa haluamasi ohjelma, esim. Word tai kuvankäsittelyohjelma - fontit ovat käytössäsi.
 
+### Lisätietoja
+
 [Lue lisää Wikipediasta](https://fi.wikipedia.org/wiki/Liikennemerkit_Suomessa) ja [Liikenneviraston sivuilta](https://www.liikennevirasto.fi/avoindata/tietoaineistot/liikennemerkkien-kirjasintyyppi).
 
 ![Example of STOP Sign with standard spacing](./examples/stop.png "Example of STOP Sign with standard spacing")
