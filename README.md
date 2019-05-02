@@ -107,7 +107,7 @@ I was brave enough to fix some of the problems that exist in the original typefa
 
 * [Liikennemerkkipiirustukset](https://julkaisut.vayla.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf)
 * [Liikennevirasto on Flickr (lots of traffic signs)](https://www.flickr.com/photos/liikennevirasto/albums/with/72157660385178002)
-* [Opastemerkkien Luettavuus - Tiehallinto (2005)](https://julkaisut.liikennevirasto.fi/pdf/3200927-vopastusmerkkienluettavuu.pdf)
+* [Opastemerkkien Luettavuus - Tiehallinto (2005)](https://julkaisut.vayla.fi/pdf/3200927-vopastusmerkkienluettavuu.pdf)
 * [Tobias Frere-Jones' Retina Typeface for Maximum Legibility of The Wall Street Journal](http://www.howdesign.com/design-business/design-news/retina-typeface-frere-jones-type/)
 * [Designing the ultimate Wayfinding Typeface](https://typography.guru/journal/designing-the-ultimate-wayfinding-typeface-r30/)
 
