@@ -17,15 +17,15 @@ Suomalaisissa liikennemerkeissä käytetyn kirjasintyypin fontti-konversio alkup
 
 ### Lisätietoja
 
-[Lue lisää Wikipediasta](https://fi.wikipedia.org/wiki/Liikennemerkit_Suomessa) ja [Liikenneviraston sivuilta](https://www.liikennevirasto.fi/avoindata/tietoaineistot/liikennemerkkien-kirjasintyyppi).
+[Lue lisää Wikipediasta](https://fi.wikipedia.org/wiki/Liikennemerkit_Suomessa) ja [Väyläviraston sivuilta](https://vayla.fi/avoindata/tieverkko/liikennemerkkien-kirjasintyyppi).
 
 ![Example of STOP Sign with standard spacing](./examples/stop.png "Example of STOP Sign with standard spacing")
 
 ## Preface
 
-The Finnish traffic sign typeface contains a lot of errors and problems. I ended up asking about the typeface used for upcoming renewed signs from Liikennevirasto, and the conversation in Twitter lead to a CC0 release of the original typeface drawn in 1960's.
+The Finnish traffic sign typeface contains a lot of errors and problems. I ended up asking about the typeface used for upcoming renewed signs from Finnish Transport Agency (currently Finnish Transport Infrastructure Agency), and the conversation in Twitter lead to a CC0 release of the original typeface drawn in 1960's.
 
-*Tie*  is a typeface conversion of the original Finnish traffic sign typeface that is available at [Liikennevirasto page](https://www.liikennevirasto.fi/avoindata/tietoaineistot/liikennemerkkien-kirjasintyyppi).
+*Tie*  is a typeface conversion of the original Finnish traffic sign typeface that is available at [Finnish Transport Infrastructure Agency page](https://vayla.fi/avoindata/tieverkko/liikennemerkkien-kirjasintyyppi).
 
 ## Usage / Installation
 
