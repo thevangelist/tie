@@ -55,7 +55,7 @@ the method is described in a tutorial [video on YouTube](https://www.youtube.com
 
 After that, the letters were copied one by one to *Glyphs* app and scaled with same proportions.
 
-Spacing of the typeface was done using the original [spacing tables, from page 287->](https://julkaisut.liikennevirasto.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf).
+Spacing of the typeface was done using the original [spacing tables, from page 287->](https://julkaisut.vayla.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf).
 
 Kerning tables aren't done, as I felt a bit unmotivated since the original kerning is somewhat bad.
 
@@ -78,9 +78,9 @@ I was brave enough to fix some of the problems that exist in the original typefa
 ## Existing problems and issues (TODO)
 
 * Artefacts from the originals should be removed and fixed
-* Kerning is not done (feel free to contribute, the information exists is [on page 293->](https://julkaisut.liikennevirasto.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf))
+* Kerning is not done (feel free to contribute, the information exists is [on page 293->](https://julkaisut.vayla.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf))
 * Some curves aren't curves - they have angular shapes
-* Missing: Cyrillics and their spacing, [from page 298->](https://julkaisut.liikennevirasto.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf)
+* Missing: Cyrillics and their spacing, [from page 298->](https://julkaisut.vayla.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf)
 
 ## Major improvement ideas - How to make Tie actually work for traffic signs
 
@@ -105,7 +105,7 @@ I was brave enough to fix some of the problems that exist in the original typefa
 
 ## References
 
-* [Liikennemerkkipiirustukset](https://julkaisut.liikennevirasto.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf)
+* [Liikennemerkkipiirustukset](https://julkaisut.vayla.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf)
 * [Liikennevirasto on Flickr (lots of traffic signs)](https://www.flickr.com/photos/liikennevirasto/albums/with/72157660385178002)
 * [Opastemerkkien Luettavuus - Tiehallinto (2005)](https://julkaisut.liikennevirasto.fi/pdf/3200927-vopastusmerkkienluettavuu.pdf)
 * [Tobias Frere-Jones' Retina Typeface for Maximum Legibility of The Wall Street Journal](http://www.howdesign.com/design-business/design-news/retina-typeface-frere-jones-type/)
