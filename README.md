@@ -2,8 +2,7 @@
 
 *...Based on the original images still used for traffic sign designs!*
 *...Codenamed: Tie!*
-
-# [Try it out online!](https://thevangelist.github.io/tie/)
+*...Name is actually not known*
 
 ## Tiivistelmä Suomeksi (Finnish Summary)
 
