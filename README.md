@@ -4,19 +4,19 @@
 *...Codenamed: Tie!*
 *...Name is actually not known*
 
-## Tiivistelmä Suomeksi (Finnish Summary)
+## Summary
 
-Suomalaisissa liikennemerkeissä käytetyn kirjasintyypin fontti-konversio alkuperäisten kuvien pohjalta. Projektin koodinimi: *Tie*.
+Font conversion of the typeface used in Finnish traffic signs, based on the original images. Project codename: *Tie* (Finnish for "road").
 
-### Käyttöönotto
+### Quick Start
 
-1. Lataa fontit [/fonts -alikansiosta](./fonts)
-2. Kopioi fontit *Font Bookiin* (OSX) / *Fonts (Ohjauspaneeli)* (Windows)
-3. Avaa haluamasi ohjelma, esim. Word tai kuvankäsittelyohjelma - fontit ovat käytössäsi.
+1. Download the fonts from the [/fonts subfolder](./fonts)
+2. Copy the fonts to *Font Book* (macOS) / *Fonts (Control Panel)* (Windows)
+3. Open your preferred application, e.g., Word or an image editor - the fonts are ready to use.
 
-### Lisätietoja
+### More Information
 
-[Lue lisää Wikipediasta](https://fi.wikipedia.org/wiki/Liikennemerkit_Suomessa) ja [Väyläviraston sivuilta](https://vayla.fi/avoindata/tieverkko/liikennemerkkien-kirjasintyyppi).
+[Read more on Wikipedia](https://en.wikipedia.org/wiki/Road_signs_in_Finland) and on the [Finnish Transport Infrastructure Agency website](https://vayla.fi/avoindata/tieverkko/liikennemerkkien-kirjasintyyppi).
 
 ![Example of STOP Sign with standard spacing](./examples/stop.png "Example of STOP Sign with standard spacing")
 
@@ -107,7 +107,7 @@ I was brave enough to fix some of the problems that exist in the original typefa
 * [Liikennemerkkipiirustukset](https://julkaisut.vayla.fi/thohje/pdf/liikennemerkkipiirustukset_osa2_19092013.pdf)
 * [Liikennevirasto on Flickr (lots of traffic signs)](https://www.flickr.com/photos/liikennevirasto/albums/with/72157660385178002)
 * [Opastemerkkien Luettavuus - Tiehallinto (2005)](https://julkaisut.vayla.fi/pdf/3200927-vopastusmerkkienluettavuu.pdf)
-* [Tobias Frere-Jones' Retina Typeface for Maximum Legibility of The Wall Street Journal](http://www.howdesign.com/design-business/design-news/retina-typeface-frere-jones-type/)
+* [Tobias Frere-Jones' Retina Typeface for Maximum Legibility of The Wall Street Journal](https://frerejones.com/blog/retina-Pro)
 * [Designing the ultimate Wayfinding Typeface](https://typography.guru/journal/designing-the-ultimate-wayfinding-typeface-r30/)
 
 ## More Examples
